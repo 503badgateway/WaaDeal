@@ -1,4 +1,4 @@
-# WaaDeal
+# Deals List Here
 Server hosting deals collection
 
 ## VPS / VMs Under $1/m
@@ -27,3 +27,10 @@ Plan	Cores	RAM	Storage	Port	IPv4	IPv6	Price
 XEON 1G (IPv6 only)	1	1 GB	10 GB	10 Gbps (shared)	—	/64	0.99€/mo
 ```
 
+### IONOS VPS XS €1/mo
+Specs:
+```
+1 vCore CPU
+1 GB RAM
+10 GB NVMe
+```
